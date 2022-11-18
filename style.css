@@ -1,0 +1,32 @@
+header {
+    width: 100%;
+    background-color: lightblue;
+    padding: 20px;
+   
+}
+/* List items in navigation bar */
+p {
+    Display: inline;
+    position: relative;
+    left: 900px;
+    font-size: 20pt;
+    word-spacing: 30px;
+  }
+
+h1 {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30pt;
+  }
+
+  .container {
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 15px solid black;
+
+
+
+
+  
