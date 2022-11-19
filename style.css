@@ -63,6 +63,14 @@ h2 {
     padding-top: 1%;
     padding-bottom: 2%;
     margin-top: 3%;
+   
+     }
+
+     .contact-form {
+        border: 5px solid coral;
+        width: 500px;
+        padding: 20px;
+        margin: auto;
      }
 
     /* Button */
@@ -81,7 +89,7 @@ h2 {
     padding: 15px;
     background-color: rgb(206, 230, 173);
 }
-
+/*  */
     #container2 {
        border: 15px solid pink;
        width: 350px;
