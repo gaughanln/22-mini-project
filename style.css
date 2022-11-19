@@ -53,9 +53,7 @@ h2 {
 /* body text */
 .body-text {
     text-align: center;
-    padding-top: 100pt;
-    border-bottom: solid 10px rgb(206, 230, 173)
-               }
+ }
         
 
   /* contact section */
@@ -63,7 +61,7 @@ h2 {
     background-color: rgb(23, 125, 89);
     text-align: center;
     padding-top: 1%;
-    padding-bottom: 3%;
+    padding-bottom: 2%;
     margin-top: 3%;
      }
 
